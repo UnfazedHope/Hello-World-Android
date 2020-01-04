@@ -7,7 +7,7 @@ Hello World App With Many Specifications like :
 3.Changing the Text Color By the Button
 
 ### App Walk-though
-<img src="https://recordit.co/Pe22pmSySH" width=200><br>
+<img src="http://g.recordit.co/Pe22pmSySH.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
